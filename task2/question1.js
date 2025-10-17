@@ -13,4 +13,6 @@ function isPrime(num) {
   }
   return result;
 }
+console.log(isPrime(7))
+console.log(isPrime(10))
 console.log(isPrime(29));
